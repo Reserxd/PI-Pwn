@@ -22,7 +22,7 @@ The <a href=https://www.raspberrypi.com/products/raspberry-pi-4-model-b/>Raspber
 <a href=https://wiki.radxa.com/Rock4/4cplus>ROCK PI 4C Plus</a> with armbian <a href=https://imola.armbian.com/archive/rockpi-4cplus/archive/Armbian_23.11.1_Rockpi-4cplus_bookworm_current_6.1.63.img.xz>Image</a><br>
 <a href=https://biqu.equipment/products/bigtreetech-btt-pi-v1-2>BIGTREETECH BTT Pi V1.2</a> with armbian <a href=https://www.armbian.com/bigtreetech-cb1/>minimal</a><br>
 <a href=https://www.linksprite.com/linksprite-pcduino3/>pcDuino3b</a> with armbian <a href=https://imola.armbian.com/archive/pcduino3nano/archive/Armbian_5.38_Pcduino3nano_Debian_jessie_next_4.14.14.7z>Image</a><br>
-
+<a href=https://www.powerplanetonline.com/es/mxq_pro>MXQPRO4K - RK322X</a> with armbian <a href=https://forum.armbian.com/topic/34923-csc-armbian-for-rk322x-tv-box-boards/>Image</a><br>
 
 ## Install
 <br>
